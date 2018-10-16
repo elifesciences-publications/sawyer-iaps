@@ -3,6 +3,7 @@
 This repository contains the code and preprocessed data used to generate tables and figures for
 Sawyer KS, Maleki N, Urban T, Marinkovic K, Karson S, Ruiz SM, Harris GJ, 
 "Alcoholism Gender Differences in Brain Responsivity to Emotional Stimuli"
+(https://doi.org/10.1101/428565)
 
 The code ("R_code/Sawyer-IAPS.R") was written to work with R version 3.5.0.
 
