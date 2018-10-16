@@ -5,6 +5,10 @@ Sawyer KS, Maleki N, Urban T, Marinkovic K, Karson S, Ruiz SM, Harris GJ,
 "Alcoholism Gender Differences in Brain Responsivity to Emotional Stimuli"
 (https://doi.org/10.1101/428565)
 
+The R project ("sawyer-iaps.Rproj") was written to work with RStudio version 1.1.453. The working
+directory should be set to the directory that contains this file. Opening this file in RStudio will
+do that automatically.
+
 The code ("R_code/Sawyer-IAPS.R") was written to work with R version 3.5.0.
 
 The preprocessed data ("R_data/Sawyer-IAPS.csv") are in comma separated value format. The columns represent various features, including demographic attributes, participant responses to stimuli, and functional magnetic resonance imaging (fMRI) contrast values, as described in the methods of the associated manuscript. For the participant responses measures, an example that describes how the variables were coded follows.
@@ -87,7 +91,7 @@ SS: Multiple Adjective Affect Check List Sensation Seeking
 
 Dys: Multiple Adjective Affect Check List Dysphoria
 
-PASS: Multiple Adjective Affect Check List Positive Affect Sensation Seekingc
+PASS: Multiple Adjective Affect Check List Positive Affect Sensation Seeking
 
 behavioral_responses_included: '1' indicates participants for which behavioral responses were available
 

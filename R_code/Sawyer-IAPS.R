@@ -8,6 +8,10 @@
 
 # Working directory should be where sawyer-iaps.Rproj is, one level above R_code, R_data, R_tables, and figures.
 
+# Create R_tables and figures directories
+if(!dir.exists(file.path("R_tables"))) { dir.create(file.path("R_tables")) }
+if(!dir.exists(file.path("figures"))) { dir.create(file.path("figures")) }
+
 # Load libraries (Pacman will install them automatically if necessary)
 if (!require("pacman")) install.packages("pacman"); library(pacman)
 p_load(data.table, tidyverse, skimr, lme4, emmeans, lmerTest)
@@ -21,9 +25,6 @@ taboo.dt <- fread("R_data/Sawyer-IAPS.csv", key = "ID")
 #
 # Table 1
 #
-
-# Create R_tables directory
-if(!dir.exists(file.path("R_tables"))) { dir.create(file.path("R_tables")) }
 
 # Select columns for Table 1 and make numeric
 demog.taboo.dt <- taboo.dt[, .(Group, Gender, Age, Education, VIQ, PIQ, WMS_DMI, HRSD, DHD, DD, LOS)]
