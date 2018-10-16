@@ -2,6 +2,7 @@
 # by Kayle S. Sawyer, Ph.D., Nasim Maleki, Ph.D., Trinity Urban, M.A., Ksenija Marinkovic, Ph.D., 
 # Steven A. Karson, B.A., Susan M. Ruiz, Ph.D., 
 # Gordon J. Harris, Ph.D., and Marlene Oscar-Berman, Ph.D.
+# https://doi.org/10.1101/428565
 # 2018-09-26
 # This code is licened Creative Commons CC0: https://creativecommons.org/publicdomain/zero/1.0/
 
@@ -20,6 +21,9 @@ taboo.dt <- fread("R_data/Sawyer-IAPS.csv", key = "ID")
 #
 # Table 1
 #
+
+# Create R_tables directory
+if(!dir.exists(file.path("R_tables"))) { dir.create(file.path("R_tables")) }
 
 # Select columns for Table 1 and make numeric
 demog.taboo.dt <- taboo.dt[, .(Group, Gender, Age, Education, VIQ, PIQ, WMS_DMI, HRSD, DHD, DD, LOS)]
