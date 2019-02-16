@@ -101,6 +101,6 @@ caudalmiddlefrontal1: Negative vs neutral contrast effect size values from surfa
 
 caudalmiddlefrontal2: Negative vs neutral contrast effect size values from surface cluster 2 with peak vertex in caudal middle Frontal cortex
 
-superiorfrontal: Negative vs neutral contrast effect size values from surface cluster 2 with peak vertex in caudal superior frontal cortex
+superiorfrontal: Negative vs neutral contrast effect size values from surface cluster with peak vertex in caudal superior frontal cortex
 
-inferiorparietal: Negative vs neutral contrast effect size values from surface cluster 2 with peak vertex in inferior parietal cortex
+inferiorparietal: Negative vs neutral contrast effect size values from surface cluster with peak vertex in inferior parietal cortex
