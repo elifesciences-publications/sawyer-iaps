@@ -3,8 +3,15 @@
 # Steven A. Karson, B.A., Susan M. Ruiz, Ph.D., 
 # Gordon J. Harris, Ph.D., and Marlene Oscar-Berman, Ph.D.
 # https://doi.org/10.1101/428565
-# 2018-09-26
-# This code is licened Creative Commons CC0: https://creativecommons.org/publicdomain/zero/1.0/
+
+# This code was written in 2019 by Kayle S. Sawyer (email: kslays@bu.edu). To
+# the extent possible under law, the author has dedicated all copyright and
+# related and neighboring rights to this software to the public domain
+# worldwide. The software is dedicated with the Creative Commons CC0 1.0
+# Universal Public Domain Dedication. This software is distributed without any
+# warranty. A copy of the CC0 Public Domain Dedication is included in this
+# repository ("LICENSE.txt"). See
+# <http://creativecommons.org/publicdomain/zero/1.0/>.
 
 # Working directory should be where sawyer-iaps.Rproj is, one level above R_code, R_data, R_tables, and figures.
 

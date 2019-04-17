@@ -5,6 +5,10 @@ Sawyer KS, Maleki N, Urban T, Marinkovic K, Karson S, Ruiz SM, Harris GJ, Oscar-
 "Alcoholism Gender Differences in Brain Responsivity to Emotional Stimuli"
 (https://doi.org/10.1101/428565)
 
+The code in this repository was written in 2019 by Kayle S. Sawyer (email: kslays@bu.edu).
+To the extent possible under law, the author has dedicated all copyright and related and neighboring rights to this software to the public domain worldwide. The software is dedicated with the Creative Commons CC0 1.0 Universal Public Domain Dedication. This software is distributed without any warranty.
+A copy of the CC0 Public Domain Dedication is included in this repository ("LICENSE.txt"). See <http://creativecommons.org/publicdomain/zero/1.0/>.
+
 The R project ("sawyer-iaps.Rproj") was written to work with RStudio version 1.1.453. The working
 directory should be set to the directory that contains this file. Opening this file in RStudio will
 do that automatically.
