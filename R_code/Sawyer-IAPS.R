@@ -2,7 +2,7 @@
 # by Kayle S. Sawyer, Ph.D., Nasim Maleki, Ph.D., Trinity Urban, M.A., Ksenija Marinkovic, Ph.D., 
 # Steven A. Karson, B.A., Susan M. Ruiz, Ph.D., 
 # Gordon J. Harris, Ph.D., and Marlene Oscar-Berman, Ph.D.
-# https://doi.org/10.1101/428565
+# https://doi.org/10.7554/eLife.41723
 
 # This code was written in 2019 by Kayle S. Sawyer (email: kslays@bu.edu). To
 # the extent possible under law, the author has dedicated all copyright and

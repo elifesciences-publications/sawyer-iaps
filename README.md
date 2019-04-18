@@ -3,7 +3,7 @@
 This repository contains the code and preprocessed data used to generate tables and figures for
 Sawyer KS, Maleki N, Urban T, Marinkovic K, Karson S, Ruiz SM, Harris GJ, Oscar-Berman M,
 "Alcoholism Gender Differences in Brain Responsivity to Emotional Stimuli"
-(https://doi.org/10.1101/428565)
+(https://doi.org/10.7554/eLife.41723)
 
 The code in this repository was written in 2019 by Kayle S. Sawyer (email: kslays@bu.edu).
 To the extent possible under law, the author has dedicated all copyright and related and neighboring rights to this software to the public domain worldwide. The software is dedicated with the Creative Commons CC0 1.0 Universal Public Domain Dedication. This software is distributed without any warranty.
